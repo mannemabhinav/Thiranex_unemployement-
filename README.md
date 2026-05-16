@@ -58,10 +58,11 @@ Two datasets are used in this project:
 
 ---
 
-<img width="960" height="564" alt="Screenshot 2026-05-15 133142" src="https://github.com/user-attachments/assets/b13b880b-e522-4012-942f-f2d135b8ae98" />
+<img width="819" height="391" alt="d" src="https://github.com/user-attachments/assets/2bb97b52-19db-4357-8b79-2b634a8ac3ff" />
+<img width="819" height="385" alt="c" src="https://github.com/user-attachments/assets/43c34ea1-17fb-4224-ab97-e14af0c03c6c" />
+<img width="580" height="360" alt="b" src="https://github.com/user-attachments/assets/455165aa-f608-455f-82a4-a84af653defb" />
+<img width="553" height="337" alt="a" src="https://github.com/user-attachments/assets/162b04f6-939e-41be-9186-d1e17ffe4a50" />
 
-<img width="960" height="564" alt="Screenshot 2026-05-15 133057" src="https://github.com/user-attachments/assets/de44fca0-bdd3-4f62-b403-db1a786b4ee4" />
-<img width="960" height="564" alt="Screenshot 2026-05-15 133028" src="https://github.com/user-attachments/assets/6301b1ac-d0c4-4158-8b44-49c4d25af6c3" />
 
 💡 Conclusion
 
